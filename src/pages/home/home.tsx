@@ -51,6 +51,7 @@ const Homepage = () => {
             alt="heroImg"
             className={`imgAnimation w-[400px] ${inView && "animate"}`}
           />
+          <h1>Gemma</h1>
         </div>
       </div>
     </div>
